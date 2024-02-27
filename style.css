@@ -1,0 +1,100 @@
+body{
+    background-color: #d2c3c3;
+    
+}
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+    color: blueviolet;
+}
+header {
+    text-align: center;
+    background-color: aqua;
+    padding: 50px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid
+}
+
+.socialmedia {
+    margin: 100px;
+}
+div{
+    text-align: center;
+
+}
+
+nav {
+    text-align: center;
+    padding: 50px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid
+}
+a{
+    text-align: center;
+    margin: 100px;
+}
+.menues {
+    margin-left: 15px;
+}
+
+#slider {
+    padding: 100px;
+    background-color: rgba(111, 73, 195, 0.449);
+    border-width: 1px;
+    border-color: black;
+    border-style: solid
+}
+
+#introduction {
+    font-family: fantasy;
+    font-size: 25px;
+    padding: 50px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid
+}
+
+#servises {
+    font-family: fantasy;
+    font-size: 25px;
+    padding: 50px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid
+}
+
+#customers {
+    font-family: fantasy;
+    font-size: 20px;
+    padding: 50px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid
+}
+
+
+#contactus{
+    font-size: 15px;
+    padding: 50px;
+    padding: 50px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid
+}
+footer{
+    padding: 50px;
+    border-width: 1px;
+    border-color: black;
+    border-style: solid
+}
+
+.footeritem {
+    margin-left: 15px;
+    background-color: rgb(0, 255, 34);
+}
+button{
+    block-size: 30px;
+}
